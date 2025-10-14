@@ -63,6 +63,6 @@ python tip_calculator.py
 📧 Email: aniketshrivastava200306@gmail.com
 
 ⭐ If you find this repository helpful, consider giving it a star to support my journey!
-Bonus Quote 🌌 : “Every code I write is a quantum of my dreams collapsing into reality.” 🌠
+Bonus Quote 🌌 : “Every code I write is a quantum of my dreams collapsing into reality.”🌠
 
 
