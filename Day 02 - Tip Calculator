@@ -1,0 +1,14 @@
+#Code Template
+# print("Welcome to the tip calculator!")
+# bill = float(input("What was the total bill? $"))
+# tip = int(input("What percentage tip would you like to give? 10 12 15 "))
+# people = int(input("How many people to split the bill? "))
+
+print("Welcome to the tip Calculator!!")
+bill = float(input("What was the total bill? (in $) "))
+tip = int(input("What percentage tip would you like to give? (e.g. 10 12 15) "))
+people = int(input("How many people are gonna split the bill? "))
+num1 = tip / 100
+num2 = bill*num1
+num3 = (bill + num2) / people
+print(f"Each person is bound to pay: ${round(num3, 2)}")
