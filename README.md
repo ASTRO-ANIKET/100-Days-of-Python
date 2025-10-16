@@ -13,7 +13,11 @@ Each folder corresponds to a day in the challenge, focusing on a new Python conc
 │   ├── tip_calculator.py
 │   └── README.md
 │
-├── Day03-TreasureIsland/
+├── Day03'-Python Pizzas!! (Mini project)/
+│   ├── main.py
+│   └── README.md
+│
+├── Day03-TreasureIsland(Main)/
 │   ├── main.py
 │   └── README.md
 │
