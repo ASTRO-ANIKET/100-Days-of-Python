@@ -1,5 +1,5 @@
 🌟 Overview:
-This repository contains all the daily projects and mini-applications I’ve built as part of Angela Yu’s 100 Days of Python Bootcamp on Udemy.
+This repository contains all the daily projects and mini-applications I’ve built as part of 100 Days of Python Bootcamp.
 Each folder corresponds to a day in the challenge, focusing on a new Python concept — from the basics of syntax to advanced projects involving GUIs, APIs, automation, and web development.
 
 📂 Repository Structure--->
