@@ -5,7 +5,7 @@ extra_cheese = input("Do you want extra cheese? Y or N: ")
 
 bill = 0
 
-# Select ur desired size of pizza? S, M or L
+# Select your desired size of pizza? S, M or L
 if size == "L":
     bill += 25
 elif size == "M":
