@@ -21,6 +21,7 @@ Each folder corresponds to a day in the challenge, focusing on a new Python conc
 │   ├── main.py
 │   └── README.md
 │
+│
 └── README.md
 
 🚀 Technologies Used
