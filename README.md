@@ -17,7 +17,10 @@ Each folder corresponds to a day in the challenge, focusing on a new Python conc
 │   ├── main.py
 │└── README.md
 │
-├── Day03'-Python Pizzas!! (Mini project)/
+├── Day03'- Python Pizzas!! (Mini project)/
+│   ├── main.py
+│   └── README.md
+├──Day 04'- Coin_toss_game (Mini Project)/
 │   ├── main.py
 │   └── README.md
 │
