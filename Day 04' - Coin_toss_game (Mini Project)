@@ -1,0 +1,16 @@
+import random
+
+player_guess = input("Guess the outcome (heads/tails): ").lower()
+
+random_side = random.randint(0, 1)
+if random_side == 1:
+    outcome = "Heads"
+else:
+    outcome = "Tails"
+print("The coin landed on:", outcome)
+
+# Determine if the player won or lost
+if (random_side == 1 and player_guess == "heads") or (random_side == 0 and player_guess == "tails"):
+    print("Congratulations!! You've won the Toss!!🎉🎉")
+else:
+    print("You lost!! LOL👎🏻👎🏻")
