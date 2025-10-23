@@ -21,10 +21,13 @@ Each folder corresponds to a day in the challenge, focusing on a new Python conc
 │   ├── main.py
 │   └── README.md
 │
-├──Day 04'- Coin_toss_game (Mini Project)/
+├──Day 04- Day 04 - Rock, Paper, Scissors Game (MAIN)/
 │   ├── main.py
 │   └── README.md
 │
+├──Day 04'- Coin_toss_game (Mini Project)/
+│   ├── main.py
+│   └── README.md
 │
 └── README.md
 
