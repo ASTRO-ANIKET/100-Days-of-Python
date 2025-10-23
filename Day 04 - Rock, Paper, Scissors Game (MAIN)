@@ -27,7 +27,7 @@ scissors = '''
 ---.__(___)
 '''
 
-player = int(input("Pick '1' for ROCK, '2' for PAPER, and '3' for SCISSORS!! "))
+player = int(input("Pick '1' for ROCK, '2' for PAPER, and '3' for SCISSORS!!\n"))
 
 # Computer Choose either of the three at random
 var1 = random.randint(1, 3)
