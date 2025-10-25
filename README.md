@@ -33,7 +33,7 @@ Each folder corresponds to a day in the challenge, focusing on a new Python conc
 
 🚀 Technologies Used
 Python 3.x
-VS Code / PyCharm
+PyCharm / VS Code 
 GitHub Web Interface
 Command Line (optional)
 
