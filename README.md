@@ -33,7 +33,7 @@ Each folder corresponds to a day in the challenge, focusing on a new Python conc
 │   ├── main.py
 │   └── README.md
 │
-├──Day 06- _/
+├──Day 06- Reeborg's Challenge/
 │   ├── main.py
 │   └── README.md
 │
