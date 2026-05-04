@@ -39,8 +39,8 @@ Each folder corresponds to a day in the challenge, focusing on a new Python conc
 │
 ├──Day 07- _/
 │   ├── main.py
-│   └── README.md
-│
+│       └── hangman_words.py
+│       └── hangman_art.py
 │
 └── README.md
 
